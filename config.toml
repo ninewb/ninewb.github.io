@@ -1,4 +1,4 @@
 baseURL = 'https://ninewb.github.io/'
 languageCode = 'en-us'
 title = 'Nick Newbill'
-theme = 'raditian'
+theme = 'ananke'
