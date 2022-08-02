@@ -1,0 +1,4 @@
+baseURL = 'https://ninewb.me/'
+languageCode = 'en-us'
+title = 'Nick Newbill'
+theme = 'raditian'
